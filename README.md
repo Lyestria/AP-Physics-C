@@ -1,3 +1,2 @@
 # AP-Physics-C
-
-Hello bois.
+The AP Physics Course at Marc Garneau C.I. taught my Henri van Bemmel. 
